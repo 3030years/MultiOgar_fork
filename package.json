@@ -8,7 +8,7 @@
     "main": "src/index.js",
     "dependencies": {
         "curl": "^0.1.4",
-        "eris": "^0.17.2",
+        "eris": "^0.18.0",
         "figlet": "latest",
         "ws": "1.1.5"
     },
